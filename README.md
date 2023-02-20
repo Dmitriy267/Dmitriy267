@@ -49,7 +49,9 @@
 
 ### :fire: Моя статистика на Github :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dmitriy267&theme=great-gatsby)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmitriy267&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy267&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Dmitriy267/Dmitriy267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
