@@ -54,6 +54,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy267&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### :fire: Моя Автобиография с примерами работ :
+<div id="auto" >
+	<a href='https://github.com/Dmitriy267/MyPortfoliPages'><p>Моя автобиография</p></a>
+	</div>
+
 
 <!-- BLOG-POST-LIST:START -->
 
