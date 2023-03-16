@@ -56,8 +56,8 @@
 
 ### :fire: Моя Автобиография с примерами работ :
 <div id="auto" >
-	<a href='https://github.com/Dmitriy267/MyPortfoliPages'><h3>Моя автобиография (код)</h3></a>
-	<a href='https://my-portfoli-pages.vercel.app/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F'><h3>Демо</h3></a>
+	<a href='https://github.com/Dmitriy267/MyPortfoliPages'><p>Моя автобиография (код)</p></a>
+	<a href='https://my-portfoli-pages.vercel.app/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F'><p>Демо сайта с автобиографией</p></a>
 	</div>
 
 
