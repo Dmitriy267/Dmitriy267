@@ -57,7 +57,6 @@
 ### :fire: Мои работы :
 <div id="auto" >
 		<a href='https://dmitriy267.github.io/pizza/'><p>Сайт интернет-магазина по продаже пиццы</p></a>
-	
 	</div>
 
 
