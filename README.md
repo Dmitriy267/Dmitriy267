@@ -56,7 +56,7 @@
 
 ### :fire: Мои работы :
 <div id="auto" >
-		<a href='https://pizza-git-frontend-dmitriy267s-projects.vercel.app?_vercel_share=DKMYsaqNv3acjpaAF8t9y8JSJxfGyn7l'><p>Сайт интернет-магазина по продаже пиццы</p></a>
+		<a href='https://dmitriy267.github.io/pizza/'><p>Сайт интернет-магазина по продаже пиццы</p></a>
 	<a href='https://github.com/Dmitriy267/MyPortfoliPages'><p>Моя автобиография (код)</p></a>
 	<a href='https://my-portfoli-pages.vercel.app/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F'><p>Демо сайта с автобиографией</p></a>
 	</div>
