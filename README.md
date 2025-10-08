@@ -19,7 +19,9 @@
 	
 :man_technologist: Обо мне:
 	
- - :man_student: В феврале 2023 года успешно прошел стажировку в компании "Hawking School" по специальности Frontend разработчик.
+ - :man_student: Прошел программу стажировки 
+ «Frontend-разработка зима 2024», в компании «Digital Sector»
+ - В феврале 2023 года успешно прошел стажировку в компании "Hawking School" по специальности Frontend разработчик.
 	
  - :writing_hand: В 2021 году закончил курс Fullstack разработчик на JavaScript в онлайн школе Skillfactory. 
 	
