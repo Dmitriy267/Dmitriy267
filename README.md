@@ -59,6 +59,7 @@
 ### :fire: Мои работы :
 <div id="auto" >
 		<a href='https://dmitriy267.github.io/pizza/'><p>Сайт интернет-магазина по продаже пиццы</p></a>
+		<a href='https://dmitriy267.github.io/dom_drag_js/'><p>Cоздание дерева DOM при помощи JS, загрузка файлов и сортировка на Drag and Drop</p></a>
 	</div>
 
 
