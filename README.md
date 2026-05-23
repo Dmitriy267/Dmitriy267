@@ -58,10 +58,10 @@
 
 ### :fire: Мои работы :
 <div id="auto" >
-		<a href='https://dmitriy267.github.io/hotels/'>Сайт отелей с адаптивом</a>
-		<a href='https://dmitriy267.github.io/pizza/'>Сайт интернет-магазина по продаже пиццы</a>
-		<a href='https://dmitriy267.github.io/dom_drag_js/'>Cоздание дерева DOM при помощи JS, загрузка файлов и сортировка на Drag and Drop</a>
-	<a href='https://dmitriy267.github.io/snake_js/'>Игра змейка на js</a>
+		<p><a href='https://dmitriy267.github.io/hotels/'>Сайт отелей с адаптивом</a></p>
+		<p><a href='https://dmitriy267.github.io/pizza/'>Сайт интернет-магазина по продаже пиццы</a></p>
+		<p><a href='https://dmitriy267.github.io/dom_drag_js/'>Cоздание дерева DOM при помощи JS, загрузка файлов и сортировка на Drag and Drop</a></p>
+	<p><a href='https://dmitriy267.github.io/snake_js/'>Игра змейка на js</a></p>
 	</div>
 
 
