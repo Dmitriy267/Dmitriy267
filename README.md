@@ -62,6 +62,7 @@
 		<p><a href='https://dmitriy267.github.io/pizza/'>Сайт интернет-магазина по продаже пиццы</a></p>
 		<p><a href='https://dmitriy267.github.io/dom_drag_js/'>Cоздание дерева DOM при помощи JS, загрузка файлов и сортировка на Drag and Drop</a></p>
 	<p><a href='https://dmitriy267.github.io/snake_js/'>Игра змейка на js</a></p>
+		<p><a href='https://dmitriy267.github.io/Music_player/'>Музыкальный плеер</a></p>
 	</div>
 
 
